@@ -1,0 +1,17 @@
+body{
+background-image: peru;
+}
+#space
+  white-space: pre;
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: 20px;
+	float: right;
+}
+#border{
+  border-style: solid;
+  border-color: darkseagreen;
+  border-width: 7px;
+}
